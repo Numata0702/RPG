@@ -5,5 +5,5 @@
 - Java 17(Swing/AWT)
 - Eclipse（Pleiades）
 
-##スクリーンショット
+## スクリーンショット
 ...随時更新予定
